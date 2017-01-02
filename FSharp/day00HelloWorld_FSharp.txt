@@ -1,0 +1,7 @@
+open System
+let readInput() = Console.ReadLine()
+let n = readInput()
+let main () =  
+    printfn "%s" "Hello, World."
+    printfn "%s" n
+main()
